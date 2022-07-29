@@ -1,0 +1,26 @@
+<div class="card">
+    <div class="card-body">
+        <h3>CONSULTAR ESTUDIANTES</h3>
+        <hr>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Identificación</th>
+                    <th>Nombre</th>
+                    <th>Genero</th>
+                    <th>Edad</th>
+                    <th>Pulsacion </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let persona of personas; index as i" >
+                    <td>{{persona.identificacion}}</td>
+                    <td>{{persona.nombre}}</td>
+                    <td>{{persona.sexo}}</td>
+                    <td>{{persona.edad}}</td>
+                    <td>{{persona.pulsacion}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

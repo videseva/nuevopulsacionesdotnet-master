@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\bin\Debug\netstandard2.1\Entidad.deps.json
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\bin\Debug\netstandard2.1\Entidad.dll
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\bin\Debug\netstandard2.1\Entidad.pdb
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\obj\Debug\netstandard2.1\Entidad.csprojAssemblyReference.cache
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\obj\Debug\netstandard2.1\Entidad.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\obj\Debug\netstandard2.1\Entidad.AssemblyInfo.cs
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\obj\Debug\netstandard2.1\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\obj\Debug\netstandard2.1\Entidad.dll
+C:\Users\User\Downloads\nuevopulsacionesdotnet\Entidad\obj\Debug\netstandard2.1\Entidad.pdb

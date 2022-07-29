@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7AvIZLfbsC+HeVbBvmyJpA4HbhmZNJoT7AYyK4Tilw0OORwB+Och+TzGdTMKpk1dhfMHfUB/2GNC9te8sjL/8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EVA\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
