@@ -110,19 +110,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EVA\\.nuget\\packages\\": {}
+    "C:\\Users\\Laura Cañizares\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\Entidad.csproj",
+      "projectUniqueName": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Entidad\\Entidad.csproj",
       "projectName": "Entidad",
-      "projectPath": "c:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\Entidad.csproj",
-      "packagesPath": "C:\\Users\\EVA\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\obj\\",
+      "projectPath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Entidad\\Entidad.csproj",
+      "packagesPath": "C:\\Users\\Laura Cañizares\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Entidad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\EVA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Laura Cañizares\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -166,7 +166,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

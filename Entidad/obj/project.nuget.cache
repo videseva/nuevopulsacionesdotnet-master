@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7AvIZLfbsC+HeVbBvmyJpA4HbhmZNJoT7AYyK4Tilw0OORwB+Och+TzGdTMKpk1dhfMHfUB/2GNC9te8sjL/8A==",
+  "dgSpecHash": "haIJJg3Q6Y2yfZ4RjKo1hXKPEZ9PjGTu/NxL8C2xpTmBGptimCYA+6MtdbRu302L1zc8XE3Pjv3CaTtkD38u5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\Entidad.csproj",
+  "projectFilePath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Entidad\\Entidad.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EVA\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    "C:\\Users\\Laura Cañizares\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

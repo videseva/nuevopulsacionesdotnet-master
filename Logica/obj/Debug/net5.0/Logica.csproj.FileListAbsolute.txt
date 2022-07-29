@@ -32,3 +32,20 @@ C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-mast
 C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-master\Logica\obj\Debug\net5.0\Logica.dll
 C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-master\Logica\obj\Debug\net5.0\ref\Logica.dll
 C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-master\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Entidad.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Logica\obj\Debug\net5.0\Logica.pdb

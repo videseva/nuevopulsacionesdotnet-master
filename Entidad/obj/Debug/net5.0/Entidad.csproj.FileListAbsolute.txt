@@ -22,3 +22,15 @@ C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-mast
 C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-master\Entidad\obj\Debug\net5.0\Entidad.dll
 C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-master\Entidad\obj\Debug\net5.0\ref\Entidad.dll
 C:\Users\EVA\Downloads\nuevopulsacionesdotnet-master\nuevopulsacionesdotnet-master\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\bin\Debug\net5.0\ref\Entidad.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\ref\Entidad.dll
+C:\Users\Laura Cañizares\Desktop\ALEJO\nuevopulsacionesdotnet-master-master\Entidad\obj\Debug\net5.0\Entidad.pdb

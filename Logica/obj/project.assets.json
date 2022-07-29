@@ -6277,19 +6277,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EVA\\.nuget\\packages\\": {}
+    "C:\\Users\\Laura Cañizares\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Logica\\Logica.csproj",
-      "packagesPath": "C:\\Users\\EVA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Logica\\obj\\",
+      "projectPath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Logica\\Logica.csproj",
+      "packagesPath": "C:\\Users\\Laura Cañizares\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\EVA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Laura Cañizares\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6301,11 +6301,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Datos\\Datos.csproj": {
-              "projectPath": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Datos\\Datos.csproj"
+            "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Datos\\Datos.csproj"
             },
-            "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\Entidad.csproj": {
-              "projectPath": "C:\\Users\\EVA\\Downloads\\nuevopulsacionesdotnet-master\\nuevopulsacionesdotnet-master\\Entidad\\Entidad.csproj"
+            "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\Laura Cañizares\\Desktop\\ALEJO\\nuevopulsacionesdotnet-master-master\\Entidad\\Entidad.csproj"
             }
           }
         }
@@ -6334,7 +6334,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

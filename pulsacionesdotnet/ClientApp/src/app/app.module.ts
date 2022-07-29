@@ -8,6 +8,7 @@ import { PersonaRegistroComponent } from './Pulsacion/persona-registro/persona-r
 import { PersonaConsultaComponent } from './Pulsacion/persona-consulta/persona-consulta.component';
 import { PersonaService } from './services/persona.service';
 import { HttpClientModule } from '@angular/common/http';
+import { MenuComponent } from './Academia/menu/menu.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { HttpClientModule } from '@angular/common/http';
     AppComponent,
     NavMenuComponent,
     PersonaRegistroComponent,
-    PersonaConsultaComponent
+    PersonaConsultaComponent,
+    MenuComponent
   ],
   imports: [
     HttpClientModule,
