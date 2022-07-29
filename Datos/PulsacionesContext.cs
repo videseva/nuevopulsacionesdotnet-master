@@ -8,6 +8,9 @@ namespace Datos
         {
             }
         public DbSet<Persona> Personas { get; set; }
+        public DbSet<Administrador> Administradors { get; set; }
+        public DbSet<Instructor> Instructors { get; set; }
+        public DbSet<Estudiante> Estudiantes { get; set; }
         }
 
 
